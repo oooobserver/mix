@@ -1,0 +1,2 @@
+# mix
+some simple project
